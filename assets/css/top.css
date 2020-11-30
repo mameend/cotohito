@@ -113,11 +113,9 @@ body {
   background-position: center; }
   @media only screen and (min-width: 768px) {
     .wrapper {
-      padding-top: 136px;
       background-image: url(../images/common/bg_border.png); } }
   @media only screen and (max-width: 767px) {
     .wrapper {
-      padding-top: 60px;
       background-image: url(../images/common/bg_border_sp.png);
       background-size: 155px auto;
       width: 100%; } }
