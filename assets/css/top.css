@@ -1508,14 +1508,14 @@ body {
     .mainvisual_img {
       height: -webkit-calc(100vh);
       height: calc(100vh);
-      background-image: url(https://assets.kurashicom.com/journal/uploads/2019/11/11151036/MTG_MD.jpeg);
+      background-image: url(https://cotohito.me/wp-content/uploads/2020/11/bg1.jpg);
       background-attachment: fixed; } }
   .iPad .mainvisual_img {
     background-attachment: scroll; }
   @media only screen and (max-width: 767px) {
     .mainvisual_img {
       width: 100%;
-      background-image: url(https://assets.kurashicom.com/journal/uploads/2019/11/11151036/MTG_MD.jpeg); } }
+      background-image: url(https://cotohito.me/wp-content/uploads/2020/11/bg1.jpg); } }
 
 /* .mainvisual_info
 -----------------------------------------------------------------*/
