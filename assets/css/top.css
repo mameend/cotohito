@@ -2503,6 +2503,7 @@ body {
 .align_center{
   text-align: center;
   display: block;
+  padding-bottom:0.8em;
 }
 a:hover{
   opacity:0.7;
