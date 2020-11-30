@@ -2504,6 +2504,7 @@ body {
 }
 .align_center{
   text-align: center;
+  display: inline-block;
 }
 a:hover{
   opacity:0.7;
